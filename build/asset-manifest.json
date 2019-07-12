@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kg-kartik/weatherapp/static/css/main.34de6062.chunk.css",
+    "main.js": "/kg-kartik/weatherapp/static/js/main.702bf4a7.chunk.js",
+    "main.js.map": "/kg-kartik/weatherapp/static/js/main.702bf4a7.chunk.js.map",
+    "runtime~main.js": "/kg-kartik/weatherapp/static/js/runtime~main.c94e38d4.js",
+    "runtime~main.js.map": "/kg-kartik/weatherapp/static/js/runtime~main.c94e38d4.js.map",
+    "static/js/2.b0d4d72d.chunk.js": "/kg-kartik/weatherapp/static/js/2.b0d4d72d.chunk.js",
+    "static/js/2.b0d4d72d.chunk.js.map": "/kg-kartik/weatherapp/static/js/2.b0d4d72d.chunk.js.map",
+    "index.html": "/kg-kartik/weatherapp/index.html",
+    "precache-manifest.63a0a771408680e81b06ed7b64cc2d7e.js": "/kg-kartik/weatherapp/precache-manifest.63a0a771408680e81b06ed7b64cc2d7e.js",
+    "service-worker.js": "/kg-kartik/weatherapp/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/kg-kartik/weatherapp/static/css/main.34de6062.chunk.css.map"
+  }
+}
